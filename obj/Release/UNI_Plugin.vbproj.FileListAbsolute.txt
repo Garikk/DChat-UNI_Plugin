@@ -1,0 +1,4 @@
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\Binares\UNI_Plugin.dll
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\Binares\UNI_Plugin.xml
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\UNI_Plugin\obj\Release\UNI_Plugin.dll
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\UNI_Plugin\obj\Release\UNI_Plugin.xml

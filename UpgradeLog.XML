@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UNI_Plugin">
+</Property><Property Name="Solution File" Value="C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\UNI_Plugin.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\UNI_Plugin.suo">
+</Property><Property Name="Date" Value="10 октября 2009 г.">
+</Property><Property Name="Time" Value="0:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UNI_Plugin.sln" Description="File successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNI_Plugin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UNI_Plugin.suo" Description="File successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNI_Plugin.suo">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNI_Plugin.vbproj" Description="Project file successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNI_Plugin.vbproj">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNI_Plugin.vbproj.user" Description="Project user file successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNI_Plugin.vbproj.user">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNIInterface.vb" Description="File successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNIInterface.vb">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNI_Plugin_Ext_ETCPS.vb" Description="File successfully backed up as C:\Users\Garikk\Desktop\!!!Transfer!!!\mydocs\programming\OLD_PROJECTS\UNI_Plugin\Backup\UNI_Plugin_Ext_ETCPS.vb">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNI_Plugin.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UNI_Plugin" Source="UNI_Plugin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UNI_Plugin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UNI_Plugin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UNI_Plugin" Source="UNI_Plugin.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
